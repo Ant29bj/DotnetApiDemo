@@ -1,0 +1,11 @@
+/home/sekai/workspace/dotnetWorkspace/apiExpo/bin/net6.0/publish/apiExpo
+/home/sekai/workspace/dotnetWorkspace/apiExpo/bin/net6.0/publish/appsettings.Development.json
+/home/sekai/workspace/dotnetWorkspace/apiExpo/bin/net6.0/publish/appsettings.json
+/home/sekai/workspace/dotnetWorkspace/apiExpo/bin/net6.0/publish/apiExpo.dll
+/home/sekai/workspace/dotnetWorkspace/apiExpo/bin/net6.0/publish/apiExpo.deps.json
+/home/sekai/workspace/dotnetWorkspace/apiExpo/bin/net6.0/publish/apiExpo.runtimeconfig.json
+/home/sekai/workspace/dotnetWorkspace/apiExpo/bin/net6.0/publish/apiExpo.pdb
+/home/sekai/workspace/dotnetWorkspace/apiExpo/bin/net6.0/publish/Microsoft.OpenApi.dll
+/home/sekai/workspace/dotnetWorkspace/apiExpo/bin/net6.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/sekai/workspace/dotnetWorkspace/apiExpo/bin/net6.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/sekai/workspace/dotnetWorkspace/apiExpo/bin/net6.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

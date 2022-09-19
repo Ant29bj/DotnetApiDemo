@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="expo" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="expo">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/Controllers/WeatherForecastController.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Controllers/alumno.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Modelos/Alumnos.Modelo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Program.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Properties/launchSettings.json" web="/" />
+            <mapping local="$PROJECT_DIR$/Repos/Alumnos.Repositorio.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/WeatherForecast.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/apiExpo.csproj" web="/" />
+            <mapping local="$PROJECT_DIR$/appsettings.Development.json" web="/" />
+            <mapping local="$PROJECT_DIR$/appsettings.json" web="/" />
+            <mapping local="$PROJECT_DIR$/obj/Debug/net6.0/apiExpo.AssemblyInfo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/obj/Debug/net6.0/apiExpo.GeneratedMSBuildEditorConfig.editorconfig" web="/" />
+            <mapping local="$PROJECT_DIR$/obj/Debug/net6.0/apiExpo.GlobalUsings.g.cs" web="/" />
+            <mapping local="/usr/share/dotnet/sdk/6.0.400/Sdks/Microsoft.NET.Sdk/analyzers/build/config/analysislevel_6_default.editorconfig" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

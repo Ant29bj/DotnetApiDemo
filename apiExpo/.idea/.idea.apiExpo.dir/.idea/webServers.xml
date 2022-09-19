@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6488f656-dc66-4689-99c4-272a91c57a5a" name="expo" url="http://ftp://155.254.244.27/www.ExpoDotnet.somee.com">
+        <fileTransfer host="ftp://155.254.244.27/www.ExpoDotnet.somee.com" port="5176">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
